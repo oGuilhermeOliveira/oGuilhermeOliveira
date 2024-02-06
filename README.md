@@ -29,6 +29,6 @@ Professional with a career in evolution in the area of Full Stack Java Developme
 
 <a href="http://www.github.com/GuilhermeSantosz"><img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSantosz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GuilhermeSantosz's GitHub stats" /></a>
 
-<a href="http://www.github.com/GuilhermeSantosz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSantosz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/oGuilhermeOliveira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSantosz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/GuilhermeSantosz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantosz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/oGuilhermeOliveira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantosz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

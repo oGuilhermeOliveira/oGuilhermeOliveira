@@ -42,22 +42,12 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/oGuilhermeOliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGuilhermeOliveira&layout=compact&langs_count=7&theme=nord"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oGuilhermeOliveira&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGuilhermeOliveira&layout=compact&langs_count=7&theme=aura"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oGuilhermeOliveira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
 <div>
-<a href="https://www.youtube.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/gui_oli04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-oliveirasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-
-Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
-
-<!--
-**academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->

@@ -1,4 +1,6 @@
-# Hi, my name is Guilherme Oliveira <span class="wave">👋</span>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2000&pause=3000&color=8A2BE2&center=false&vCenter=true&random=false&width=435&height=25&lines=Hello!+Call+me+Guilherme+Oliveira%F0%9F%91%8B" />
+</h1>
 
 ### About Me
 

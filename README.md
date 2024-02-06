@@ -48,5 +48,6 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 ### Get in touch with me! 📭
 <div>
-<a href="https://www.linkedin.com/in/guilherme-oliveirasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/guilherme-oliveirasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:guilhermeolsnto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>

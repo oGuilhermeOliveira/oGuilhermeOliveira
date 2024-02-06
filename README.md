@@ -40,7 +40,6 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
 
 ### GitHub Stats ⚡
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=oGuilhermeOliveira&repo=github-readme-stats)](https://github.com/oGuilhermeOliveira/github-readme-stats)
 <div>
 <a href="https://github.com/oGuilhermeOliveira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGuilhermeOliveira&layout=compact&langs_count=7&theme=aura"/>

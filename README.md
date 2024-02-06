@@ -1,19 +1,18 @@
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2000&pause=3000&color=8A2BE2&center=false&vCenter=true&random=false&width=435&height=25&lines=Hello!+Call+me+Guilherme+Oliveira%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2000&pause=3000&color=9370DB&center=false&vCenter=true&random=false&width=435&height=25&lines=Hello!+Call+me+Guilherme+Oliveira%F0%9F%91%8B" />
 </h1>
 
 ### About Me
 
 💻 I'm a Fullstack Java Developer
 
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
+
 
 ### I've worked with... 🔧
 
 **Technologies & Tools**
 
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,18 +26,13 @@
 
 
 
-<!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
+
 
 ### I'm studying... 🧩
-<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-<!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
-
-
-<!--
-Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
 
 ### GitHub Stats ⚡

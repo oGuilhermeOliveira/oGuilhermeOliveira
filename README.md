@@ -1,15 +1,15 @@
-# Oi, me chamo Guilherme Oliveira <span class="wave">👋</span>
+# Hi, my name is Guilherme Oliveira <span class="wave">👋</span>
 
-### Sobre mim
+### About Me
 
-💻 Eu sou um desenvolvedor Fullstack Java
+💻 I'm a Fullstack Java Developer
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-### Eu já trabalhei com... 🔧
+### I've worked with... 🔧
 
-**Tecnologias e Ferramentas**
+**Technologies & Tools**
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
@@ -27,7 +27,7 @@
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
-### Eu estou estudando... 🧩
+### I'm studying... 🧩
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -46,7 +46,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oGuilhermeOliveira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
-### Entre em contato comigo! 📭
+### Get in touch with me! 📭
 <div>
 <a href="https://www.linkedin.com/in/guilherme-oliveirasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>

@@ -2,9 +2,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=2000&pause=3000&color=9370DB&center=false&vCenter=true&random=false&width=485&height=25&lines=Hello!+My+name+is+Guilherme+Oliveira%F0%9F%91%8B" />
 </h1>
 
-### About Me
+### About Me... 📖
+<h5>
+  
+I'm Professional with a career in evolution in the area of Full Stack Java Development at EBAC.
 
-💻 I'm a Fullstack Java Developer
+I have as a principle the valuation of overcoming obstacles as a source of motivation, to seek the knowledge and resources necessary to deal with challenges.
+
+I enjoy exercising my skills and delving deeper into my area, developing increasing skills in these areas, so that being seen as a reference becomes a motivating factor.
+
+Expanding my knowledge and building my portfolio with projects. Currently, I have skills in:
+
+- Java <br/>
+- JavaScript <br/>
+- HTML <br/>
+- CSS <br/>
+- Bootstrap <br/>
+
+Areas to be developed: <br/>
+
+- React <br/> 
+- SQL<br/>
+- SpringBoot<br/>
+</h5>
 
 
 

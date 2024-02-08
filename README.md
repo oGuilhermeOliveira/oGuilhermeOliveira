@@ -5,7 +5,7 @@
 ### About Me... 📖
 <h5>
   
-I'm Professional with a career in evolution in the area of Full Stack Java Development at EBAC.
+I'm Professional with a career in evolution in the area of Full Stack Java Development.
 
 I have as a principle the valuation of overcoming obstacles as a source of motivation, to seek the knowledge and resources necessary to deal with challenges.
 

@@ -58,10 +58,8 @@ Areas to be developed: <br/>
 <div>
 <a href="https://github.com/oGuilhermeOliveira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGuilhermeOliveira&layout=compact&langs_count=7&theme=aura"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oGuilhermeOliveira&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oGuilhermeOliveira&theme=aura&date_format=M%20j%5B%2C%20Y%5D&card_width=720)](https://git.io/streak-stats)
 ### Get in touch with me! 📭
 <div>
 <a href="https://www.linkedin.com/in/guilherme-oliveirasantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -14,14 +14,9 @@ I enjoy exercising my skills and delving deeper into my area, developing increas
 Expanding my knowledge and building my portfolio with projects. Currently, I have skills in:
 
 - Java <br/>
-- JavaScript <br/>
-- HTML <br/>
-- CSS <br/>
-- Bootstrap <br/>
 
 Areas to be developed: <br/>
 
-- React <br/> 
 - SQL<br/>
 - SpringBoot<br/>
 </h5>
